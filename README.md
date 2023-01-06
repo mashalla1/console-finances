@@ -1,0 +1,2 @@
+# console-finances
+javascript fundamentals
